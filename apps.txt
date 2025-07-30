@@ -1,0 +1,19 @@
+#INTERNET
+Google.Chrome
+Mozilla.firefox
+
+Microsoft.VisualStudioCode
+7zip.7zip
+Notepad++.Notepad++
+putty.putty
+VideoLAN.VLC
+Devolutions.RemoteDesktopManager
+#Spotify.Spotify
+Microsoft.Office
+OBSProject.OBSStudio
+Discord.Discord
+Bitwarden.Bitwarden
+WiresharkFoundation.Wireshark
+
+# DELL
+# Dell.CommandUpdate
